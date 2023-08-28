@@ -1,0 +1,2 @@
+# EasyEditor
+Photo redacting
